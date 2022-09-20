@@ -1,0 +1,4 @@
+Guardo toda iteração o valor do ultimo dead-end
+Caso no fim da rodada eu tenha somente um dead-end (Situação Ruim)
+Eu verifico os vizinhos, procurando por caminhos possiveis
+Adapto a forma de iteração ao caminho possivel encontrado
