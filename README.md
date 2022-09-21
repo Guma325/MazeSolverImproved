@@ -5,6 +5,7 @@ To run this project you will need to install the follow libraries:
 * Numpy
 * Pandas
 * Opencv2
+* Matplotlib
 
 After installing the deppendences, all you need is to import the MazeSolver object.
 You can also import the Plot and Timer libraries if you want to compare the execution time.
